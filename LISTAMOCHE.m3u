@@ -154,6 +154,10 @@ http://s1.wssiptv.com/live/wssiptv/U2K7oKl3ajrik63j24/113.ts?freeiptvlinks.com
 #EXTINF:-1 group-title="movies", SKY MOVIES
 
 
+#EXTINF:-1 group-title="movies", MBC
+http://bit.do/5CnB
+#EXTINF:-1 group-title="movies", MBC2 2
+http://bit.do/5Cnv
 #EXTINF:-1 group-title="movies", MBC2
 http://63.237.48.23/ios/MBC2/MBC2.m3u8
 #EXTINF:-1 group-title="movies", MBC MAX
@@ -170,8 +174,8 @@ rtmp://dodo38.dgn35.com:1935/live/Moviemax-Premier?token=073murat
 rtmp://dodo38.dgn35.com:1935/live/movie-stars?token=073murat
 
 
-#EXTINF:-1 group-title="movies",C-More Emotion
-#
+#EXTINF:-1 group-title="movies", ENCORE EAST
+http://31.220.41.110:80/LiveEdge/EncoreEastHD/chunklist_w278428019_b1000000.m3u8?token=b98c3d86a1c06cf3f73e333b621410eb
 #EXTINF:-1 group-title="movies",C-More First
 #
 #EXTINF:-1 group-title="movies",C-More Series
@@ -1064,8 +1068,12 @@ http://46.61.226.18/hls/CH_C05_HDHISTORY/bw3000000/variant.m3u8?version=2
 #EXTINF:-1 group-title="discovery/doc", NAT GEO 1
 rtsp://s7.webport.tv:1935/live/z050203.stream
 
+#EXTINF:-1 group-title="discovery/doc", NATGEO ENG AUS
+http://tinyurl.com/p8c9yfo
 #EXTINF:-1 group-title="discovery/doc", NAT GEO WILD SPA
 http://fichd-lh.akamaihd.net/i/NATGEOW_LATAM@304509/index_2000_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1 group-title="discovery/doc", NAT GEO WILD ENG AUS
+http://tinyurl.com/pr5hhjg
 #EXTINF:-1 group-title="discovery/doc", NAT GEO WILD RUS/ENG AUDIO
 http://hlsstr02.svc.iptv.rt.ru/hls/CH_NATGEOWILD/variant.m3u8?version=2
 
@@ -1162,7 +1170,7 @@ http://hls.novotelecom.ru/streaming/nickelodeon/tvrec/playlist.m3u8
 #EXTINF:-1 group-title="kids", NICK
 #
 #EXTINF:-1 group-title="kids", CARTOON NETWORK
-#
+rtmp://206.190.150.8/livecartoon2016?id=14063 http://www.janjua.tv/resources/scripts/eplayer.swf http://www.janjua.tv/embedplayer/cartoon2016/1/620/385
 #EXTINF:-1 group-title="kids", BOOMERANG
 http://193.107.99.111:5555/udp/224.21.21.72:1234
 #EXTINF:-1 group-title="kids", TOONCAST
@@ -1264,7 +1272,7 @@ http://46.61.226.18/hls/CH_C02_SETHD/bw3000000/variant.m3u8?version=2
 #EXTINF:-1 group-title="USA", TRUTV USA
 #
 #EXTINF:-1 group-title="USA", FX HD
-#
+http://tinyurl.com/p7n5jfw
 #EXTINF:-1 group-title="USA", FX 
 #
 #EXTINF:-1 group-title="USA", A AND E
